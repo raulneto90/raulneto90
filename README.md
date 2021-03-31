@@ -31,6 +31,7 @@ Conheça alguns projetos que já atuei!
 
 - [WhatsApp](18981126127)
 - [LinkedIn](https://www.linkedin.com/in/raul-neto-777bb988/)
+- [E-mail](mailto:raulneto90@gmail.com)
 
 
 ---
