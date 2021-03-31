@@ -14,13 +14,13 @@ Conheça alguns projetos que já atuei!
 ## Tecnologias utilizadas
 
 <div style="display: flex; align-items:center; justify-content: center; max-width: 500px">
-  <img src="https://github.com/raulneto90/raulneto90/blob/main/icons8-html-5-48.png" alt="HTML 5"/>
-  <img src="https://github.com/raulneto90/raulneto90/blob/main/icons8-css3-48.png" alt="CSS 3"/>
-  <img src="https://github.com/raulneto90/raulneto90/blob/main/javascript.png" alt="Javascript"/>
-  <img src="https://github.com/raulneto90/raulneto90/blob/main/icons8-php-48.png" alt="PHP"/>
-  <img src="https://github.com/raulneto90/raulneto90/blob/main/icons8-nodejs-48.png" alt="NodeJS"/>
-  <img src="https://github.com/raulneto90/raulneto90/blob/main/icons8-react-40.png" alt="ReactJS"/>
-  <img src="https://github.com/raulneto90/raulneto90/blob/main/icons8-react-native-64.png" alt="React Native"/>
+  <img src="https://github.com/raulneto90/raulneto90/blob/main/icons8-html-5-48.png" alt="HTML 5" style="display: inline-block; width: 48px; height: 48px"/>
+  <img src="https://github.com/raulneto90/raulneto90/blob/main/icons8-css3-48.png" alt="CSS 3" style="display: inline-block; width: 48px; height: 48px"/>
+  <img src="https://github.com/raulneto90/raulneto90/blob/main/javascript.png" alt="Javascript" style="display: inline-block; width: 48px; height: 48px"/>
+  <img src="https://github.com/raulneto90/raulneto90/blob/main/icons8-php-48.png" alt="PHP" style="display: inline-block; width: 48px; height: 48px"/>
+  <img src="https://github.com/raulneto90/raulneto90/blob/main/icons8-nodejs-48.png" alt="NodeJS" style="display: inline-block; width: 48px; height: 48px"/>
+  <img src="https://github.com/raulneto90/raulneto90/blob/main/icons8-react-40.png" alt="ReactJS" style="display: inline-block; width: 48px; height: 48px"/>
+  <img src="https://github.com/raulneto90/raulneto90/blob/main/icons8-react-native-64.png" alt="React Native" style="display: inline-block; width: 48px; height: 48px"/>
 </div>
 
 ###
