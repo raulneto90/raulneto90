@@ -5,13 +5,12 @@ O meu foco de desenvolvimento é com [NodeJS](https://nodejs.org/en/), [ReactJS]
 
 Conheça alguns projetos que já atuei!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=find-address-by-cep)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=find-address-by-cep)](https://github.com/raulneto90/find-address-by-cep)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=github-explorer)](https://github.com/raulneto90/github-explorer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=hotmart-sales-api)](https://github.com/raulneto90/hotmart-sales-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=ignite-finapi)](https://github.com/raulneto90/ignite-finapi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=ignite-nodejs-rentalx)](https://github.com/raulneto90/ignite-nodejs-rentalx)
 
-- [Pesquisa de CEP](https://github.com/raulneto90/find-address-by-cep)
-- [Github Explorer](https://github.com/raulneto90/github-explorer)
-- [Integração com Hotmart](https://github.com/raulneto90/hotmart-sales-api)
-- [FinAPI](https://github.com/raulneto90/ignite-finapi)
-- [Rentx](https://github.com/raulneto90/ignite-nodejs-rentalx)
 
 ## Tecnologias utilizadas
 
