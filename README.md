@@ -25,8 +25,8 @@ Conheça alguns projetos que já atuei!
 
 ## 📫 Contato:
 
-<p>- [WhatsApp](18981126127)</p>
-<p>- [LinkedIn](https://www.linkedin.com/in/raul-neto-777bb988/)</p>
+- [WhatsApp](18981126127)
+- [LinkedIn](https://www.linkedin.com/in/raul-neto-777bb988/)
 
 
 ---
