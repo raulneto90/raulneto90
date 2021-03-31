@@ -5,11 +5,11 @@ O meu foco de desenvolvimento é com [NodeJS](https://nodejs.org/en/), [ReactJS]
 
 Conheça alguns projetos que já atuei!
 
-- [X][Pesquisa de CEP](https://github.com/raulneto90/find-address-by-cep)
-- [X][Github Explorer](https://github.com/raulneto90/github-explorer)
-- [X][Integração com Hotmart](https://github.com/raulneto90/hotmart-sales-api)
-- [X][FinAPI](https://github.com/raulneto90/ignite-finapi)
-- [X][Rentx](https://github.com/raulneto90/ignite-nodejs-rentalx)
+- [Pesquisa de CEP](https://github.com/raulneto90/find-address-by-cep)
+- [Github Explorer](https://github.com/raulneto90/github-explorer)
+- [Integração com Hotmart](https://github.com/raulneto90/hotmart-sales-api)
+- [FinAPI](https://github.com/raulneto90/ignite-finapi)
+- [Rentx](https://github.com/raulneto90/ignite-nodejs-rentalx)
 
 ## Tecnologias utilizadas
 
@@ -23,9 +23,11 @@ Conheça alguns projetos que já atuei!
   <img src="https://github.com/raulneto90/raulneto90/blob/main/icons8-react-native-64.png" alt="React Native"/>
 </div>
 
-📫 Contato:
-[WhatsApp](18981126127)
-[LinkedIn](https://www.linkedin.com/in/raul-neto-777bb988/)
+## 📫 Contato:
+
+<p>[WhatsApp](18981126127)</p>
+<p>[LinkedIn](https://www.linkedin.com/in/raul-neto-777bb988/)</p>
+
 
 ---
 Feito com ❤️ por Raul Neto.
