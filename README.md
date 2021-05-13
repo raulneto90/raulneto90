@@ -1,6 +1,6 @@
 # :wave: Oi, eu sou o Raul!
 
-Meu nome é Raul e atuo como Analista de Tecnologia da Informação e Desenvolvedor Full Stack nas horas vagas.
+Meu nome é Raul e sou desenvolvedor NodeJS na Tecnospeed.
 O meu foco de desenvolvimento é com [NodeJS](https://nodejs.org/en/), [ReactJS](https://pt-br.reactjs.org/) e estudando [React Native](https://reactnative.dev/).
 
 Conheça alguns projetos que já atuei!
