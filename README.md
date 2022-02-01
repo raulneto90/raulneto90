@@ -1,7 +1,7 @@
 # :wave: Oi, eu sou o Raul!
 
 Meu nome é Raul e sou desenvolvedor NodeJS na Tecnospeed.
-O meu foco de desenvolvimento é com [NodeJS](https://nodejs.org/en/), [ReactJS](https://pt-br.reactjs.org/) e estudando [React Native](https://reactnative.dev/).
+O meu foco de desenvolvimento é com [NodeJS](https://nodejs.org/en/), porém tenho conhecimento em [ReactJS](https://pt-br.reactjs.org/).
 
 Conheça alguns projetos que já atuei!
 
