@@ -5,7 +5,7 @@ O meu foco de desenvolvimento é com [NodeJS](https://nodejs.org/en/), [ReactJS]
 
 Conheça alguns projetos que já atuei!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=find-address-by-cep)](https://github.com/raulneto90/find-address-by-cep)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=find-address-by-cep&layout=compact&theme=dracula)](https://github.com/raulneto90/find-address-by-cep)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=github-explorer)](https://github.com/raulneto90/github-explorer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=ignite-finapi)](https://github.com/raulneto90/ignite-finapi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=virtualwallet)](https://github.com/raulneto90/virtualwallet)
