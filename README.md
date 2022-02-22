@@ -5,7 +5,7 @@ O meu foco de desenvolvimento é com [NodeJS](https://nodejs.org/en/), porém te
 
 Conheça alguns projetos que já atuei!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=adonis-todos-app&layout=compact&theme=dracula)](https://github.com/raulneto90/adonis-todos-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=adonis-todos-api&layout=compact&theme=dracula)](https://github.com/raulneto90/adonis-todos-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=b7web-blog-prisma&layout=compact&theme=dracula)](https://github.com/raulneto90/b7web-blog-prisma)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=find-address-by-cep&layout=compact&theme=dracula)](https://github.com/raulneto90/find-address-by-cep)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=github-explorer&layout=compact&theme=dracula)](https://github.com/raulneto90/github-explorer)
