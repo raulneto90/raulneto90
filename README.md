@@ -49,5 +49,5 @@ My main stacks are NodeJS and NestJS, but also I study frontend apps with ReactJ
 
 
 ---
-🇧🇷 Feito com ❤️ por Raul Neto.
+🇧🇷 Feito com ❤️ por Raul Neto. <br>
 :us: Made with ❤️ by Raul Neto.
