@@ -12,7 +12,6 @@ Conheça alguns projetos que já atuei!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=ignite-finapi&layout=compact&theme=dracula)](https://github.com/raulneto90/ignite-finapi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=virtualwallet&layout=compact&theme=dracula)](https://github.com/raulneto90/virtualwallet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=rentx&layout=compact&theme=dracula)](https://github.com/raulneto90/rentx)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=nlw-valoriza&layout=compact&theme=dracula)](https://github.com/raulneto90/nlw-valoriza)
 
 
 ## Tecnologias utilizadas
