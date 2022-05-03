@@ -1,4 +1,4 @@
-🇧🇷
+<span style="font-size: 18px">🇧🇷</span>
 
 # :wave: Oi, eu sou o Raul!
 
