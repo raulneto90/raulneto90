@@ -1,11 +1,11 @@
-🇧🇷
+# 🇧🇷
 
 # :wave: Oi, eu sou o Raul!
 
 Meu nome é Raul e sou desenvolvedor backend na Tecnospeed SA.
 As minhas principais stacks são NodeJS e NestJS, porém também tenho conhecimentos em desenvolvimento de apps com React.
 
-:us:
+# :us:
 
 # :wave: Hi, I'm Raul!
 
