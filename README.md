@@ -1,9 +1,19 @@
+🇧🇷
+
 # :wave: Oi, eu sou o Raul!
 
-Meu nome é Raul e sou desenvolvedor NodeJS na Tecnospeed.
-O meu foco de desenvolvimento é com [NodeJS](https://nodejs.org/en/), porém tenho conhecimento em [ReactJS](https://pt-br.reactjs.org/).
+Meu nome é Raul e sou desenvolvedor backend na Tecnospeed SA.
+As minhas principais stacks são NodeJS e NestJS, porém também tenho conhecimentos em desenvolvimento de apps com React.
 
-Conheça alguns projetos que já atuei!
+:us:
+
+# :wave: Hi, I'm Raul!
+
+My name is Raul and I'm backend developer at Tecnospeed SA.
+My main stacks are NodeJS and NestJS, but also I study frontend apps with ReactJS.
+
+
+## Projetos recentes/Recent projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=nlw-return-widget-web&layout=compact&theme=dracula)](https://github.com/raulneto90/nlw-return-widget-web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=b7web-blog-prisma&layout=compact&theme=dracula)](https://github.com/raulneto90/b7web-blog-prisma)
@@ -14,7 +24,7 @@ Conheça alguns projetos que já atuei!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=rentx&layout=compact&theme=dracula)](https://github.com/raulneto90/rentx)
 
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas/Main Techs
 
 <div style="display: flex; align-items:center; justify-content: center; max-width: 500px">
   <img src="https://github.com/raulneto90/raulneto90/blob/main/icons8-html-5-48.png" alt="HTML 5" style="display: inline-block; width: 48px; height: 48px"/>
@@ -22,7 +32,6 @@ Conheça alguns projetos que já atuei!
   <img src="https://github.com/raulneto90/raulneto90/blob/main/javascript.png" alt="Javascript" style="display: inline-block; width: 48px; height: 48px"/>
   <img src="https://github.com/raulneto90/raulneto90/blob/main/icons8-nodejs-48.png" alt="NodeJS" style="display: inline-block; width: 48px; height: 48px"/>
   <img src="https://github.com/raulneto90/raulneto90/blob/main/icons8-react-40.png" alt="ReactJS" style="display: inline-block; width: 48px; height: 48px"/>
-  <img src="https://github.com/raulneto90/raulneto90/blob/main/icons8-react-native-64.png" alt="React Native" style="display: inline-block; width: 48px; height: 48px"/>
 </div>
 
 ###
@@ -32,7 +41,7 @@ Conheça alguns projetos que já atuei!
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raulneto90&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## 📫 Contato:
+## 📫 Contato/Contact:
 
 - [WhatsApp](18981126127)
 - [LinkedIn](https://www.linkedin.com/in/raul-neto-777bb988/)
@@ -40,4 +49,5 @@ Conheça alguns projetos que já atuei!
 
 
 ---
-Feito com ❤️ por Raul Neto.
+🇧🇷 Feito com ❤️ por Raul Neto.
+:us: Made with ❤️ by Raul Neto.
