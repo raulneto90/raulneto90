@@ -17,9 +17,6 @@ My main stacks are NodeJS and NestJS, but also I study frontend apps with ReactJ
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=nlw-return-widget-web&layout=compact&theme=dracula)](https://github.com/raulneto90/nlw-return-widget-web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=b7web-blog-prisma&layout=compact&theme=dracula)](https://github.com/raulneto90/b7web-blog-prisma)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=find-address-by-cep&layout=compact&theme=dracula)](https://github.com/raulneto90/find-address-by-cep)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=github-explorer&layout=compact&theme=dracula)](https://github.com/raulneto90/github-explorer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=ignite-finapi&layout=compact&theme=dracula)](https://github.com/raulneto90/ignite-finapi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=virtualwallet&layout=compact&theme=dracula)](https://github.com/raulneto90/virtualwallet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=rentx&layout=compact&theme=dracula)](https://github.com/raulneto90/rentx)
 
