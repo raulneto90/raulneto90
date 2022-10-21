@@ -2,15 +2,15 @@
 
 :wave: Oi, eu sou o Raul!
 
-Meu nome é Raul e sou desenvolvedor backend na Tecnospeed SA.
-As minhas principais stacks são NodeJS e NestJS, porém também tenho conhecimentos em desenvolvimento de apps com React.
+Meu nome é Raul e sou Software Engineer na Gupy.
+As minhas principais stacks são NodeJS e NestJS e também desenvolvo com ReactJS.
 
 # :us:
 
 :wave: Hi, I'm Raul!
 
-My name is Raul and I'm backend developer at Tecnospeed SA.
-My main stacks are NodeJS and NestJS, but also I study frontend apps with ReactJS.
+My name is Raul and I'm Software Engineer at Gupy.
+My main stacks are NodeJS and NestJS, but I'm also developing with ReactJS.
 
 
 ## Projetos recentes/Recent projects
