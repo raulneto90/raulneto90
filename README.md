@@ -13,14 +13,6 @@ My name is Raul and I'm Software Engineer at Gupy.
 My main stacks are NodeJS and NestJS, but I'm also developing with ReactJS.
 
 
-## Projetos recentes/Recent projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=nlw-return-widget-web&layout=compact&theme=dracula)](https://github.com/raulneto90/nlw-return-widget-web)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=b7web-blog-prisma&layout=compact&theme=dracula)](https://github.com/raulneto90/b7web-blog-prisma)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=virtualwallet&layout=compact&theme=dracula)](https://github.com/raulneto90/virtualwallet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulneto90&repo=rentx&layout=compact&theme=dracula)](https://github.com/raulneto90/rentx)
-
-
 ## Tecnologias utilizadas/Main Techs
 
 <div style="display: flex; align-items:center; justify-content: center; max-width: 500px">
