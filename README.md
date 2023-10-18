@@ -24,11 +24,6 @@ My main stacks are NodeJS and NestJS, but I'm also developing with ReactJS.
 </div>
 
 
-<div style="display: flex; align-items:center; justify-content: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulneto90&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raulneto90&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 ## 📫 Contato/Contact:
 
 - [WhatsApp](18981126127)
