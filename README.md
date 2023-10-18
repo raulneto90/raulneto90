@@ -23,7 +23,6 @@ My main stacks are NodeJS and NestJS, but I'm also developing with ReactJS.
   <img src="https://github.com/raulneto90/raulneto90/blob/main/icons8-react-40.png" alt="ReactJS" style="display: inline-block; width: 48px; height: 48px"/>
 </div>
 
-###
 
 <div style="display: flex; align-items:center; justify-content: center;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulneto90&layout=compact&langs_count=7&theme=dracula"/>
