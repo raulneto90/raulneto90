@@ -2,14 +2,14 @@
 
 :wave: Oi, eu sou o Raul!
 
-Meu nome é Raul e sou Software Engineer na Gupy.
+Meu nome é Raul e sou Software Engineer Specialist no Grupo Boticário.
 As minhas principais stacks são NodeJS e NestJS e também desenvolvo com ReactJS.
 
 # :us:
 
 :wave: Hi, I'm Raul!
 
-My name is Raul and I'm Software Engineer at Gupy.
+My name is Raul and I'm Software Engineer Specialist at Grupo Boticário.
 My main stacks are NodeJS and NestJS, but I'm also developing with ReactJS.
 
 
